@@ -1,3 +1,8 @@
 data/
 pipfile
 pipfile.lock
+
+.pyc
+.json
+model/boosting/__pycache__/
+catboost_info/

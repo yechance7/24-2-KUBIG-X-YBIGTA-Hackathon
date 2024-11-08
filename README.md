@@ -12,9 +12,9 @@
 │   │-- sample_submission_hackathon.csv
 ├── model/
 │   ├── boosting/                  
-│   │   │-- LGBM.py
-│   │   │-- catboost_baseline.py      
-│   │   │--       
+│   │   │-- catboost_baseline.py   
+│   │   │-- LGBM.py  
+│   │   │-- LGBM_config.yaml     
 │   │   └──      
 ├── ensemble/
 │   │-- ensemble.py

@@ -1,0 +1,18 @@
+method: bayes
+name: LGBM_Hyperparameter_Optimization
+metric:
+  name: l2
+  goal: minimize
+parameters:
+  iterations:
+    min: 100
+    max: 2000  # 최대 값을 2000으로 늘림
+  learning_rate:
+    min: 0.001  # 더 작은 학습률 범위 추가
+    max: 0.3    # 최대 학습률을 0.3으로 늘림
+  depth:
+    values: [4, 5, 6, 7, 8, 9, 10, 11]  # 더 많은 depth 값을 추가
+  objective:
+    value: regression  # 회귀 문제로 설정
+  metric:
+    value: l2  # L2 (MSE)로 설정
