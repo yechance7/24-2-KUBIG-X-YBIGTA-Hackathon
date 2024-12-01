@@ -1,4 +1,5 @@
 # 24-2-KUBIG X YBIGTA Hackathon
+![logo Image](logo.png)
 
 ## 📁 프로젝트 폴더 구조
 
@@ -37,5 +38,4 @@
 | 이동진 | dongj12          |      DS     | dongj1210@naver.com      |
 
 ## Result
-<img src="submission/result.png" alt="Result Image" width="500">
-
+<img src="submission/result.png" alt="Result Image" width="700">
