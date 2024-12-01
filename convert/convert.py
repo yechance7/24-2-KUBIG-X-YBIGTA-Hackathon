@@ -5,6 +5,8 @@ def convert_csv(file_name):
     # before 폴더의 CSV 파일 불러오기
     before_path = os.path.join("convert/before", file_name)
     df = pd.read_csv(before_path)
+
+    df.columns = ['ID', 'click']
     
     # click 열을 0 또는 1로 변환
     df['click'] = df['click'].apply(lambda x: 1 if x >= 0.5 else 0)

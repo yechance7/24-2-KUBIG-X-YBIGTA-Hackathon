@@ -16,3 +16,8 @@ parameters:
     value: regression  # 회귀 문제로 설정
   metric:
     value: l2  # L2 (MSE)로 설정
+
+command:
+  - ${env}
+  - python
+  - model/boosting/LGBM.py  # 실행할 Python 파일의 이름
