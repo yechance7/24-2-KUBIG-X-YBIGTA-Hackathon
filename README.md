@@ -25,6 +25,7 @@
 │   ├── before/ # 바꿔줄 csv파일 위치
 │   ├── after/
 ├── submission/ # 결과물들 저장위치
+```
 
 # Result
 ![Result Image](submission/result.png)
