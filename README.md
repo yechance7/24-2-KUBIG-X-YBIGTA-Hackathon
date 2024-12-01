@@ -27,4 +27,4 @@
 ├── submission/ # 결과물들 저장위치
 
 # Result
-![](submission/result.png)
+![Result Image](submission/result.png)
