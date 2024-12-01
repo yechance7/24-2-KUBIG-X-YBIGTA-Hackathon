@@ -1,4 +1,5 @@
 # 24-2-KUBIG X YBIGTA Hackathon
+![logo Image](logo.png)
 
 ## 📁 프로젝트 폴더 구조
 
@@ -26,6 +27,15 @@
 │   ├── after/
 ├── submission/ # 결과물들 저장위치
 ```
+# Team: RedbullandChickengangjung
 
-# Result
-![Result Image](submission/result.png)
+## Team Member Info
+
+| Name   | Github Username | Department | e-mail                    |
+| ------ | --------------- | ---------- | ------------------------- |
+| 강민정 | MinJeonging      |      DS     | ejkds60@yonsei.ac.kr     |
+| 김예찬 | yechance7        |      DS/DE  | blueflaver@yonsei.ac.kr  |
+| 이동진 | dongj12          |      DS     | dongj1210@naver.com      |
+
+## Result
+<img src="submission/result.png" alt="Result Image" width="700">
