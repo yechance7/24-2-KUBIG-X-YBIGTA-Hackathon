@@ -6,3 +6,5 @@ pipfile.lock
 .json
 model/boosting/__pycache__/
 catboost_info/
+*.log
+*.tsv
