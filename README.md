@@ -26,7 +26,9 @@
 │   ├── after/
 ├── submission/ # 결과물들 저장위치
 ```
-## Member Info
+# Team: RedbullandChickengangjung
+
+## Team Member Info
 
 | Name   | Github Username | Department | e-mail                    |
 | ------ | --------------- | ---------- | ------------------------- |
@@ -34,5 +36,6 @@
 | 김예찬 | yechance7        |      DS/DE  | blueflaver@yonsei.ac.kr  |
 | 이동진 | dongj12          |      DS     | dongj1210@naver.com      |
 
-# Result
-![Result Image](submission/result.png)
+## Result
+<img src="submission/result.png" alt="Result Image" width="500">
+
